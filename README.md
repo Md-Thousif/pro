@@ -12,6 +12,7 @@ problems
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -28,4 +29,16 @@ problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
