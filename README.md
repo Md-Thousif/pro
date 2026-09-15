@@ -31,6 +31,7 @@ problems
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
@@ -41,6 +42,7 @@ problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
