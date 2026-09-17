@@ -7,15 +7,15 @@
 
 class Solution(object):
     def guessNumber(self, n):
-        low=0
+        low=1
         high=n
         while True:
             mid=low+(high-low)//2
-            guess(mid)
-            if(guess(mid)==0):
+            ans=guess(mid)
+            if(ans==0):
                 return mid
-            elif(guess(mid)==-1):
+            elif(ans==-1):
                 high=mid-1
-            elif(guess(mid)==1):
+            elif(ans==1):
                 low=mid+1
         
