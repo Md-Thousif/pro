@@ -6,6 +6,7 @@ problems
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
@@ -60,6 +61,7 @@ problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Md-Thousif/pro/tree/master/0374-guess-number-higher-or-lower) |
