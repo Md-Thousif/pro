@@ -6,6 +6,7 @@ problems
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@ problems
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
