@@ -9,6 +9,7 @@ problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +66,7 @@ problems
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Md-Thousif/pro/tree/master/0374-guess-number-higher-or-lower) |
