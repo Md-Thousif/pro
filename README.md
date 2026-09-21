@@ -29,6 +29,7 @@ problems
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -54,6 +55,7 @@ problems
 | [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Md-Thousif/pro/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
@@ -82,6 +84,7 @@ problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +115,8 @@ problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Md-Thousif/pro/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
