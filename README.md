@@ -17,6 +17,7 @@ problems
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Md-Thousif/pro/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -80,6 +81,7 @@ problems
 | [0374-guess-number-higher-or-lower](https://github.com/Md-Thousif/pro/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Md-Thousif/pro/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
