@@ -19,6 +19,7 @@ problems
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Md-Thousif/pro/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Md-Thousif/pro/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -83,6 +84,7 @@ problems
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Md-Thousif/pro/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Md-Thousif/pro/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
