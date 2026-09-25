@@ -10,6 +10,7 @@ problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Md-Thousif/pro/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Md-Thousif/pro/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
@@ -47,6 +48,7 @@ problems
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Md-Thousif/pro/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
