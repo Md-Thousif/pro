@@ -50,6 +50,7 @@ problems
 | ------- |
 | [0066-plus-one](https://github.com/Md-Thousif/pro/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 ## Ternary Search
 |  |
@@ -158,4 +160,8 @@ problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
