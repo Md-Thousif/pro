@@ -6,6 +6,7 @@ problems
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
@@ -87,6 +88,7 @@ problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Md-Thousif/pro/tree/master/0035-search-insert-position) |
@@ -164,4 +166,8 @@ problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
