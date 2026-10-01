@@ -69,6 +69,7 @@ problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +120,7 @@ problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -177,4 +179,8 @@ problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
