@@ -4,7 +4,7 @@ class Solution(object):
         if len(s)==1:
             return False
         for i in range(0,len(s)):
-            if s[i] == "(" or s[i]=="[" or s[i]=="{":
+            if s[i] in "([{":
                 ans.append(s[i])
             if len(ans)>0:
                 if s[i]==")"  and ans[-1]=="(":
