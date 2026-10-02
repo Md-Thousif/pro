@@ -20,6 +20,7 @@ problems
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Md-Thousif/pro/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,12 +123,14 @@ problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 ## Sliding Window
