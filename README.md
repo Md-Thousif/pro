@@ -13,6 +13,7 @@ problems
 | [0066-plus-one](https://github.com/Md-Thousif/pro/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Md-Thousif/pro/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Md-Thousif/pro/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
@@ -52,6 +53,7 @@ problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Md-Thousif/pro/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Md-Thousif/pro/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
@@ -123,6 +125,7 @@ problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Md-Thousif/pro/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
