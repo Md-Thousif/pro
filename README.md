@@ -81,6 +81,7 @@ problems
 | [0392-is-subsequence](https://github.com/Md-Thousif/pro/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Md-Thousif/pro/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -126,6 +127,7 @@ problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Thousif/pro/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
@@ -154,6 +156,7 @@ problems
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Md-Thousif/pro/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
 |  |
@@ -192,4 +195,9 @@ problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
