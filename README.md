@@ -84,6 +84,7 @@ problems
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Md-Thousif/pro/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Md-Thousif/pro/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
@@ -130,6 +131,7 @@ problems
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -196,8 +198,10 @@ problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
