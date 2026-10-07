@@ -32,6 +32,7 @@ problems
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ problems
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Md-Thousif/pro/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -57,6 +59,7 @@ problems
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
+| [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +207,8 @@ problems
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
