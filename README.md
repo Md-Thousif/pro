@@ -34,6 +34,7 @@ problems
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Md-Thousif/pro/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ problems
 | [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Md-Thousif/pro/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
