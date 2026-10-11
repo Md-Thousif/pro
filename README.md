@@ -22,6 +22,7 @@ problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
@@ -45,6 +46,7 @@ problems
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
@@ -103,6 +105,7 @@ problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Binary Search
@@ -129,6 +132,7 @@ problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
@@ -205,6 +209,7 @@ problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -225,8 +230,14 @@ problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
