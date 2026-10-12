@@ -32,6 +32,7 @@ problems
 | [0852-peak-index-in-a-mountain-array](https://github.com/Md-Thousif/pro/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Md-Thousif/pro/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Md-Thousif/pro/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Md-Thousif/pro/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -234,6 +235,7 @@ problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/Md-Thousif/pro/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
