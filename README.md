@@ -24,6 +24,7 @@ problems
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Md-Thousif/pro/tree/master/0704-binary-search) |
@@ -135,6 +136,7 @@ problems
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
 ## Stack
 |  |
@@ -231,6 +233,7 @@ problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
