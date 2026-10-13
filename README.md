@@ -35,6 +35,7 @@ problems
 | [1046-last-stone-weight](https://github.com/Md-Thousif/pro/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Md-Thousif/pro/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -129,6 +130,7 @@ problems
 | [0875-koko-eating-bananas](https://github.com/Md-Thousif/pro/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Md-Thousif/pro/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ problems
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +231,7 @@ problems
 ## Matrix
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
@@ -236,6 +240,7 @@ problems
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Md-Thousif/pro/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
