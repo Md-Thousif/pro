@@ -41,6 +41,7 @@ problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Thousif/pro/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/Md-Thousif/pro/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Md-Thousif/pro/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ problems
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Thousif/pro/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Md-Thousif/pro/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ problems
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
+| [2974-minimum-number-game](https://github.com/Md-Thousif/pro/tree/master/2974-minimum-number-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +247,7 @@ problems
 | [1046-last-stone-weight](https://github.com/Md-Thousif/pro/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Thousif/pro/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Md-Thousif/pro/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
