@@ -50,6 +50,7 @@ problems
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Md-Thousif/pro/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
@@ -96,6 +97,7 @@ problems
 | [0020-valid-parentheses](https://github.com/Md-Thousif/pro/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Md-Thousif/pro/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Md-Thousif/pro/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Md-Thousif/pro/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
