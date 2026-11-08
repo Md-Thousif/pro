@@ -57,6 +57,7 @@ problems
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Md-Thousif/pro/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
@@ -104,6 +105,7 @@ problems
 | [0290-word-pattern](https://github.com/Md-Thousif/pro/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Md-Thousif/pro/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Md-Thousif/pro/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Md-Thousif/pro/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Md-Thousif/pro/tree/master/0392-is-subsequence) |
@@ -125,6 +127,7 @@ problems
 | ------- |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Md-Thousif/pro/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
