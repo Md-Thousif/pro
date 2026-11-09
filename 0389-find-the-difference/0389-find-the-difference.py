@@ -1,10 +1,9 @@
-class Solution(object):
-    def findTheDifference(self, s, t):
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
         ans=0
-        for ch in s:
-            ans^=ord(ch)
-        for ce in t:
-            ans^=ord(ce)
+        for first in s:
+            ans^=ord(first)
+        for end in t:
+            ans^=ord(end)
         return chr(ans)
 
-        
