@@ -112,6 +112,7 @@ problems
 | [0412-fizz-buzz](https://github.com/Md-Thousif/pro/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Md-Thousif/pro/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
