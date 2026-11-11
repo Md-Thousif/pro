@@ -1,21 +1,22 @@
-class Solution(object):
-    def backspaceCompare(self, s, t):
+class Solution:
+    def backspaceCompare(self, s: str, t: str) -> bool:
         ans1=[]
         ans2=[]
-        for i in range(0,len(s)):
-            if s[i]=='#':
-                if len(ans1)>0:
-                    ans1.pop()
-            else:
+        for i in range(len(s)):
+            if(s[i]!='#'):
                 ans1.append(s[i])
-        res1="".join(ans1)
-        for j in range(0,len(t)):
-            if t[j]=='#':
-                if len(ans2)>0:
-                    ans2.pop()
-            else:
+            elif s[i]=='#' and len(ans1)>0:
+                ans1.pop()
+        for j in range(len(t)):
+            if(t[j]!='#'):
                 ans2.append(t[j])
-        res2="".join(ans2)
-        if res1==res2:
+            elif t[j]=='#' and len(ans2)>0:
+                ans2.pop()
+        ans1=str(ans1)
+        ans2=str(ans2)
+        if ans1==ans2:
             return True
         return False
+        
+
+
