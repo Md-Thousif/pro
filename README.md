@@ -61,6 +61,7 @@ problems
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/Md-Thousif/pro/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Md-Thousif/pro/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +117,7 @@ problems
 | [0520-detect-capital](https://github.com/Md-Thousif/pro/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Md-Thousif/pro/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Md-Thousif/pro/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/Md-Thousif/pro/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Md-Thousif/pro/tree/master/0921-minimum-add-to-make-parentheses-valid) |
