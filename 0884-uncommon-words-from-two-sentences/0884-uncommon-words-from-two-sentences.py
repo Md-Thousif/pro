@@ -1,18 +1,14 @@
-class Solution(object):
-    def uncommonFromSentences(self, s1, s2):
+class Solution:
+    def uncommonFromSentences(self, s1: str, s2: str) -> list[str]:
         ans=[]
-        nums=s1.split()+s2.split()
         m={}
-        for i in range(0,len(nums)):
-            if nums[i] in m:
-                m[nums[i]]+=1
+        num=s1.split()+s2.split()
+        for i in range(len(num)):
+            if(num[i] in m):
+                m[num[i]]+=1
             else:
-                m[nums[i]]=1
-        for n in m:
-            if(m[n]==1):
-                ans.append(n)
-        return ans
-
-
-
-        
+                m[num[i]]=1
+        for x in m:
+            if m[x]==1:
+                ans.append(str(x))
+        return ans    
