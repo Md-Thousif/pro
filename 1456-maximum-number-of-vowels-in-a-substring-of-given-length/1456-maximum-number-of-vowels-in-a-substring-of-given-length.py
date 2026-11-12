@@ -1,17 +1,17 @@
-class Solution(object):
-    def maxVowels(self, s, k):
-        m={'a','e','i','o','u'}
-        curr=0
-        inn=0
-        for i in range(0,k):
-            if s[i] in m:
-                curr+=1
-        maxx=curr
+class Solution:
+    def maxVowels(self, s: str, k: int) -> int:
+        ans=0
+        last=0
+        c=0
+        for i in range(k):
+            if s[i] in 'aeiou':
+                c+=1
+        ans=c
         for j in range(k,len(s)):
-            if(s[j] in m): 
-                curr+=1
-            if s[inn] in m:
-                curr-=1
-            inn+=1
-            maxx=max(curr,maxx)
-        return maxx
+            if s[j] in 'aeiou':
+                c+=1
+            if s[last] in 'aeiou':
+                c-=1
+            last+=1
+            ans=max(c,ans)
+        return ans
