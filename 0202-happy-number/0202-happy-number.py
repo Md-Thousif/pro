@@ -1,22 +1,19 @@
-class Solution(object):
-    def isHappy(self, n):
+class Solution:
+    def isHappy(self, n: int) -> bool:
         m={}
-        ans=0
         k=0
+        ans=0
         while(n>0):
-            num=n%10
-            ans+=num*num
+            f=n%10
+            ans+=f*f
             n=n//10
-            if n==0 and ans!=1:
+            if n==0 and ans==1:
+                return True
+            elif n==0 and ans!=1:
                 n=ans
-                if ans not in m:
+                if ans in m:
+                    return False
+                else:
                     m[ans]=k
                     k+=1
                     ans=0
-                else:
-                    return False
-            elif n==0 and ans==1:
-                return True
-        return True
-
-            
