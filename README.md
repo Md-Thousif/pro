@@ -6,6 +6,7 @@ problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Md-Thousif/pro/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -48,6 +49,7 @@ problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Md-Thousif/pro/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Md-Thousif/pro/tree/master/0205-isomorphic-strings) |
