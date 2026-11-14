@@ -19,6 +19,7 @@ problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Thousif/pro/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
@@ -51,6 +52,7 @@ problems
 | ------- |
 | [0001-two-sum](https://github.com/Md-Thousif/pro/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Thousif/pro/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Md-Thousif/pro/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
@@ -132,6 +134,7 @@ problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Md-Thousif/pro/tree/master/0383-ransom-note) |
@@ -162,6 +165,7 @@ problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Md-Thousif/pro/tree/master/0242-valid-anagram) |
@@ -240,6 +244,7 @@ problems
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
@@ -249,6 +254,7 @@ problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Thousif/pro/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Md-Thousif/pro/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 ## Bracket Sequences
