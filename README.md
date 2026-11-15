@@ -26,6 +26,7 @@ problems
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Md-Thousif/pro/tree/master/0682-baseball-game) |
@@ -64,6 +65,7 @@ problems
 | [0383-ransom-note](https://github.com/Md-Thousif/pro/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Thousif/pro/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Md-Thousif/pro/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
