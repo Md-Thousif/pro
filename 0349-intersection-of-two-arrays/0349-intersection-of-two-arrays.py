@@ -1,15 +1,8 @@
-class Solution(object):
-    def intersection(self, nums1, nums2):
+class Solution:
+    def intersection(self, nums1: list[int], nums2: list[int]) -> list[int]:
         m=set(nums2)
         val=set()
-        i=0
-        li=[]
-        while(i<len(nums1)):
+        for i in range(len(nums1)):
             if nums1[i] in m:
                 val.add(nums1[i])
-                i+=1
-            else:
-                i+=1
-        ans=list(val)
-        return ans
-                
+        return list(val)
