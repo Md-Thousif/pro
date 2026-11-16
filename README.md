@@ -40,6 +40,7 @@ problems
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Md-Thousif/pro/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Md-Thousif/pro/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Md-Thousif/pro/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Md-Thousif/pro/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Thousif/pro/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Md-Thousif/pro/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -69,6 +70,7 @@ problems
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Md-Thousif/pro/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Md-Thousif/pro/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Md-Thousif/pro/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Md-Thousif/pro/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Md-Thousif/pro/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -98,6 +100,7 @@ problems
 | [0392-is-subsequence](https://github.com/Md-Thousif/pro/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Md-Thousif/pro/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/Md-Thousif/pro/tree/master/0844-backspace-string-compare) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Md-Thousif/pro/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -163,6 +166,7 @@ problems
 | [1004-max-consecutive-ones-iii](https://github.com/Md-Thousif/pro/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Md-Thousif/pro/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Md-Thousif/pro/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Md-Thousif/pro/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -178,6 +182,7 @@ problems
 | [0506-relative-ranks](https://github.com/Md-Thousif/pro/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Md-Thousif/pro/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Md-Thousif/pro/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Md-Thousif/pro/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Thousif/pro/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Md-Thousif/pro/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Md-Thousif/pro/tree/master/2974-minimum-number-game) |
