@@ -1,13 +1,13 @@
-class Solution(object):
-    def searchInsert(self, nums, tar):
-        low=0
-        high=len(nums)-1
-        while(low<=high):
-            mid=low+(high-low)//2
-            if(nums[mid]==tar):
+class Solution:
+    def searchInsert(self, nums: list[int], tar: int) -> int:
+        i=0
+        j=len(nums)-1
+        while(i<=j):
+            mid=i+(j-i)//2
+            if nums[mid]==tar:
                 return mid
-            elif(nums[mid]>tar):
-                high=mid-1
-            elif(nums[mid]<tar):
-                low=mid+1
-        return low
+            elif nums[mid]<tar:
+                i=mid+1
+            else:
+                j=mid-1
+        return i
