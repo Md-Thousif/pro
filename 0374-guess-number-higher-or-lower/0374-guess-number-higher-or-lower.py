@@ -3,19 +3,17 @@
 # @return -1 if num is higher than the picked number
 #          1 if num is lower than the picked number
 #          otherwise return 0
-# def guess(num):
+# def guess(num: int) -> int:
 
-class Solution(object):
-    def guessNumber(self, n):
-        low=1
-        high=n
-        while True:
-            mid=low+(high-low)//2
-            ans=guess(mid)
-            if(ans==0):
+class Solution:
+    def guessNumber(self, n: int) -> int:
+        i=0
+        j=n
+        while(i<=j):
+            mid=i+(j-i)//2
+            if guess(mid)==0:
                 return mid
-            elif(ans==-1):
-                high=mid-1
-            elif(ans==1):
-                low=mid+1
-        
+            elif guess(mid)==-1:
+                j=mid-1
+            else:
+                i=mid+1
