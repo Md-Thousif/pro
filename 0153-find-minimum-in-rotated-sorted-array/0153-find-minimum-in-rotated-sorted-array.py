@@ -1,13 +1,15 @@
-class Solution(object):
-    def findMin(self, nums):
-        low=0
-        high=len(nums)-1
-        while(low<=high):
-            mid=low+(high-low)//2
-            if(nums[mid]>nums[high]):
-                low=mid+1
+class Solution:
+    def findMin(self, nums: list[int]) -> int:
+        i=0
+        j=len(nums)-1
+        while(i<=j):
+            mid=i+(j-i)//2
+            if(nums[mid]>nums[j]):
+                i=mid+1
             else:
-                high=mid
-            if(low==high):
-                return nums[low]
-        return nums[low]
+                j=mid
+            if(i==j):
+                return nums[i]
+        return nums[i]
+            
+                
