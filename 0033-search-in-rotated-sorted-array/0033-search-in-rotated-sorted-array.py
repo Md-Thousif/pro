@@ -1,5 +1,5 @@
-class Solution(object):
-    def search(self, nums, tar):
+class Solution:
+    def search(self, nums: list[int], tar: int) -> int:
         i=0
         j=len(nums)-1
         while(i<=j):
@@ -17,7 +17,4 @@ class Solution(object):
                 else:
                     j=mid-1
         return -1
-
-       
-
-        
+        return -1
