@@ -1,31 +1,32 @@
-class Solution(object):
-    def searchRange(self, nums, tar):
+class Solution:
+    def searchRange(self, nums: list[int], tar: int) -> list[int]:
+        
         def first():
-            ans1=-1
-            low=0
-            high=len(nums)-1
-            while(low<=high):
-                mid=low+(high-low)//2
+            fir=-1
+            i=0
+            j=len(nums)-1
+            while(i<=j):
+                mid=i+(j-i)//2
                 if(nums[mid]==tar):
-                    ans1=mid
-                    high=mid-1
+                    fir=mid
+                    j=mid-1
                 elif(nums[mid]<tar):
-                    low=mid+1
+                    i=mid+1
                 else:
-                    high=mid-1
-            return ans1
+                    j=mid-1
+            return fir
         def last():
-            ans2=-1
-            low=0
-            high=len(nums)-1
-            while(low<=high):
-                mid=low+(high-low)//2
+            las=-1
+            i=0
+            j=len(nums)-1
+            while(i<=j):
+                mid=i+(j-i)//2
                 if(nums[mid]==tar):
-                    ans2=mid
-                    low=mid+1
+                    las=mid
+                    i=mid+1
                 elif(nums[mid]<tar):
-                    low=mid+1
+                    i=mid+1
                 else:
-                    high=mid-1
-            return ans2
-        return first(),last()
+                    j=mid-1
+            return las
+        return [first(),last()]
