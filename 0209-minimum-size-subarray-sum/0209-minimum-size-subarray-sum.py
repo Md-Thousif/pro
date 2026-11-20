@@ -1,20 +1,19 @@
-class Solution(object):
-    def minSubArrayLen(self, tar, nums):
-        c=0
-        summ=0
+class Solution:
+    def minSubArrayLen(self, tar: int, nums: list[int]) -> int:
+        count=0
         ans=0
-        inn=0
+        summ=0
+        inx=0
         for i in range(0,len(nums)):
             summ+=nums[i]
-            c+=1
+            count+=1
             while(summ>=tar):
-                if(ans==0):
-                    ans=c
-                ans=min(ans,c)
-                summ-=nums[inn]
-                inn+=1
-                c-=1
+                if ans==0:
+                    ans=count
+                ans=min(ans,count)
+                summ-=nums[inx]
+                inx+=1
+                count-=1
         return ans
+                    
                 
-
-        
