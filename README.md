@@ -24,6 +24,7 @@ problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Md-Thousif/pro/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Md-Thousif/pro/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-Thousif/pro/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -94,6 +95,7 @@ problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Md-Thousif/pro/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Md-Thousif/pro/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Md-Thousif/pro/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Md-Thousif/pro/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Md-Thousif/pro/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -156,6 +159,7 @@ problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Md-Thousif/pro/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Md-Thousif/pro/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Md-Thousif/pro/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Md-Thousif/pro/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Md-Thousif/pro/tree/master/0540-single-element-in-a-sorted-array) |
@@ -235,6 +239,7 @@ problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Md-Thousif/pro/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Md-Thousif/pro/tree/master/0389-find-the-difference) |
 ## Ternary Search
 |  |
@@ -303,4 +308,8 @@ problems
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Md-Thousif/pro/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Md-Thousif/pro/tree/master/0451-sort-characters-by-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Md-Thousif/pro/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
