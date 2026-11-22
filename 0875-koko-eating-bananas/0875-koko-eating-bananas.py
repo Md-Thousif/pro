@@ -1,20 +1,21 @@
-class Solution(object):
-    def minEatingSpeed(self, piles, h):
-        ans1=0
-        low=1
-        high=max(piles)
+class Solution:
+    def minEatingSpeed(self, piles: list[int], h: int) -> int:
+        i=1
+        j=max(piles)
         mid=0
-        def ser():
+        ans2=0
+        def num():
             count=0
-            for i in range(0,len(piles)):
-                count+=(piles[i] + mid - 1) // mid
+            for i in range(len(piles)):
+                count+=(piles[i] + mid -1)//mid
             return count
-        while(low<=high):
-            mid=low+(high-low)//2
-            ans=ser()
-            if(ans<=h):
-                ans1=mid
-                high=mid-1
-            elif(ans>h):
-                low=mid+1    
-        return ans1
+
+        while(i<=j):
+            mid=i+(j-i)//2
+            ans=num()
+            if ans<=h:
+                ans2=mid
+                j=mid-1
+            elif ans>h:
+                i=mid+1
+        return ans2
