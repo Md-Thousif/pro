@@ -1,17 +1,21 @@
-class Solution(object):
-    def longestOnes(self, nums, k):
-        left=0
-        ans=0
+class Solution:
+    def longestOnes(self, nums: list[int], k: int) -> int:
         count=0
-        euq=0
-        for i in range(0,len(nums)):
+        ans=0
+        curr=0
+        j=0
+        for i in range(len(nums)):
+            if nums[i]==1:
                 count+=1
-                if(nums[i]==0):
-                    euq+=1
-                    while(euq>k):
-                        if(nums[left]==0):
-                            euq-=1
-                        count-=1
-                        left+=1
-                ans=max(ans,count)
+            elif nums[i]==0:
+                count+=1
+                curr+=1
+                while(curr>k):
+                    if nums[j]==0:
+                        curr-=1
+                    count-=1
+                    j+=1
+            ans=max(count,ans)
         return ans
+
+
