@@ -1,15 +1,15 @@
-class Solution(object):
-    def numOfSubarrays(self, arr, k, hold):
-        count=0
+class Solution:
+    def numOfSubarrays(self, arr: list[int], k: int, thres: int) -> int:
         summ=0
-        inn=0
-        for i in range(0,k):
+        inx=0
+        c=0
+        for i in range(k):
             summ+=arr[i]
-        if summ//k>=hold:
-            count+=1
+        if summ/k>=thres:
+            c+=1
         for j in range(k,len(arr)):
-            summ+=-arr[inn]+arr[j]
-            inn+=1
-            if(summ//k>=hold):
-                count+=1
-        return count
+            summ=(summ-arr[inx]+arr[j])
+            inx+=1
+            if summ/k>=thres:
+                c+=1
+        return c
