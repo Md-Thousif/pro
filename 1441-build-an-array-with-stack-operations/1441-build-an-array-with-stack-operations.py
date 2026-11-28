@@ -1,14 +1,17 @@
-class Solution(object):
-    def buildArray(self, tar, n):
-        i=0
-        j=1
+class Solution:
+    def buildArray(self, tar: list[int], n: int) -> list[str]:
         ans=[]
-        while(i<len(tar)):
-            if tar[i]==j:
+        k=0
+        s=set(tar)
+        for i in range(n):
+            if i+1 in s:
                 ans.append("Push")
-                i+=1
+                k+=1
+                if k==len(tar):
+                    return ans
             else:
                 ans.append("Push")
                 ans.append("Pop")
-            j+=1
+
         return ans
+                
